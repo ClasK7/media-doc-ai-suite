@@ -36,7 +36,7 @@ Aplicación de escritorio desarrollada en Python con interfaz gráfica (`Tkinter
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/ClasK7/media-doc-ai-suite.git](https://github.com/ClasK7/media-doc-ai-suite.git)
+   git clone https://github.com/ClasK7/media-doc-ai-suite.git
    cd media-doc-ai-suite
    ```
 
