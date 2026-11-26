@@ -11,6 +11,9 @@ __pycache__/
 *.ogg
 *.wav
 *.m4a
+*.aac
+*.flac
+*.mp4
 *.pdf
 *.docx
 *.pptx
