@@ -1,0 +1,6 @@
+yt-dlp
+faster-whisper
+PyMuPDF
+python-docx
+python-pptx
+rapidocr-onnxruntime
